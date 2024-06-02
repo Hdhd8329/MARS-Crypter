@@ -1,14 +1,8 @@
-![Снимок экрана 2024-06-02 125326](https://github.com/Hdhd8329/MARS-Crypter/assets/171423192/4569b03e-926b-4f0b-a9ea-94b8d1a0a3da)
+![Снимок экрана 2024-06-02 132426](https://github.com/Hdhd8329/MARS-Crypter/assets/171423192/dfd37ba1-2935-4368-a827-6ffca23c07b3)
+![Снимок экрана 2024-06-02 132359](https://github.com/Hdhd8329/MARS-Crypter/assets/171423192/8e86d053-4194-4cd8-8573-fc4012080a25)
 
-![Снимок экрана 2024-06-02 125450](https://github.com/Hdhd8329/MARS-Crypter/assets/171423192/267b7dd1-0bda-47ef-8643-54e8c1fd9551)
-
-
-
-
-
-
-
-
+password from Crypter encryption 
+login encryption
 
 MARS Crypter
 Overview
